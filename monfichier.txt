@@ -1,2 +1,3 @@
 Voici un message de Jonathan Houle 2144422.
+Voici un second message
 Voici un premier commit
